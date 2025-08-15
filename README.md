@@ -32,6 +32,9 @@
 
 | App | Description | Platforms |
 |-----|-------------|-----------|
+| Housy | Furniture focused e-commerce platform | [Android](https://play.google.com/store/apps/details?id=com.housyeg.housy) / [iOS](https://apps.apple.com/eg/app/housy-eg/id6670499122?platform=iphone) |
+| Mughtareb - مغترب | Smart guide to nearby places | [Android](https://play.google.com/store/apps/details?id=com.evyx.elmughtareb) / [iOS](https://apps.apple.com/kw/app/mughtareb/id6747080456) |
+| Al Bahkaly - البهكلي | Family tree App with community engagement features | [iOS](https://apps.apple.com/sa/app/albhkaly/id6745513603) |
 | Tibbi - طبي | Healthcare super app (chat, booking, visits, payments) | [Android](https://play.google.com/store/apps/details?id=com.tebbi.evyx) / [iOS](https://apps.apple.com/eg/app/tibbii/id6744579208) |
 | Egy Pin | Location-based services for users & business owners | [Android](https://play.google.com/store/apps/details?id=com.egypin.evyx) / [iOS](https://apps.apple.com/kw/app/egy-pin/id6742410188)|
 | Henta - هينتا | eBook platform for authors & readers | [Android](https://play.google.com/store/apps/details?id=com.apphentaa.evyx) |
@@ -63,8 +66,8 @@
   </a>
   
   <!-- Phone -->
-  <a href="tel:+2001125099112">
-    <img src="https://img.shields.io/badge/Phone-+20 01125099112-2ea44f?style=for-the-badge" alt="Phone"/>
+  <a href="tel:+201125099112">
+    <img src="https://img.shields.io/badge/Phone-+20 1125099112-2ea44f?style=for-the-badge" alt="Phone"/>
   </a>
   
   <!-- GitHub -->
